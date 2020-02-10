@@ -1,0 +1,44 @@
+.signIn {
+       margin-top: 65px;
+        margin-left: 195px;
+    }
+.sign{
+    margin-left: 180px;  
+}    
+.signUp {
+    margin-top: 65px;
+     margin-left: 125px;
+ }
+ .signEmail {
+    margin-top: 65px;
+ }
+ .box{
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgb(0, 238, 255);
+    box-sizing: border-box;
+  }
+  .signbox{
+    margin-left: 380px;  
+} 
+.boxInterest{
+    width: 100px;
+    height: 30px;
+    border: 1px solid rgb(0, 238, 255);
+    box-sizing: border-box;
+  }
+  .buyclr{
+    background-color: 1px solid rgb(0, 238, 255);
+    color: white;
+  }
+  .row-m-t{
+    margin-top : 20px
+  }
+  .wrapper {
+    text-align: center;
+}
+
+.email{
+    position: absolute;
+    top: 50%;
+}
